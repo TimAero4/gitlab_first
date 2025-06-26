@@ -8,8 +8,6 @@
 * [Fourth step](image/runner_registration_4.png)
 * [Fifth step](image/docker_ps_runner_5.png)
 * [Sixth step](image/runner_run_6.png)
-
-##----------------
 <ins>Задание 2</ins>
 * [First step](image/2.0_gitlab_ci.png)
 * [Second step](image/2.1_commit.png)
