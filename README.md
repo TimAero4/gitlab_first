@@ -11,4 +11,7 @@
 
 ##----------------
 <ins>Задание 2</ins>
+* [First step](image/2.0_gitlab_ci.png)
+* [Second step](image/2.1_commit.png)
+* [Third step](image/2.2_pipeline.jpg)
 
